@@ -6,7 +6,7 @@ permalink: /about/
 
 ## Qui suis-je ? 
 
-Ingénieur pédagogique en IA et Vision par Ordinateur à l'Université Jean Monnet. 
+Ingénieur pédagogique en IA et Vision par Ordinateur à Télécom Saint-Etienne. 
 
 ### Contact
 - Email: theo.poujol@univ-st-etienne.fr
