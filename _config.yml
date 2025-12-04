@@ -1,0 +1,23 @@
+title: Théo Poujol
+description: AI & Computer Vision Educational Engineer
+author: Théo Poujol
+email: theo.poujol@univ-st-etienne.fr
+
+# Choisissez un thème supporté par GitHub Pages
+theme: minima
+# Ou utilisez un thème distant comme :
+# remote_theme: pages-themes/cayman@v0.2.0
+
+# Configuration
+baseurl: "" 
+url: "https://theopjl.github.io"
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Navigation
+header_pages:
+  - about.md
+  - projects.md
