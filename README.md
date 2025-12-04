@@ -1,5 +1,14 @@
-## Hi there 👋
+## Hi there 🐈‍⬛
 
+**Théo Poujol**
+
+AI & Computer Vision Educational Engineer - Teaching Staff @[Télécom Saint-Etienne](https://www.telecom-st-etienne.fr/en/), Graduate School of Engineering & [IXR Platform](https://ixrplatform.fr).
+🧑‍🎓 Master of Science In Computer Graphics & Applied Geometry @Faculty of Sciences Luminy, Aix-Marseille University.
+
+- 🔭 I’m currently working on Deep Learning courses & pratical workshops for engineering students.
+- 🌱 I’m currently learning AI, Mathematics, Vision, Lightning and Real-time Rendering.
+- 🌐 Personal Website: [Link](https://theopjl.github.io) (You can find all my teaching stuff and areas of interest).
+- 📫 How to reach me: theo.poujol@univ-st-etienne.fr
 <!--
 **theopjl/theopjl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
