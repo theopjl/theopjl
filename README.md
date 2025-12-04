@@ -8,7 +8,7 @@ AI & Computer Vision Educational Engineer - Teaching Staff @ [Télécom Saint-Et
 - 🔭 I’m currently working on Deep Learning courses & pratical workshops for engineering students.
 - 🌱 I’m currently learning AI, Mathematics, Vision, Lightning and Real-time Rendering.
 - 🌐 Personal Website: [Link](https://theopjl.github.io) (You can find all my teaching stuff and areas of interest).
-  📫 How to reach me: theo.poujol@univ-st-etienne.fr
+- 📫 How to reach me: theo.poujol@univ-st-etienne.fr
 <!--
 **theopjl/theopjl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
