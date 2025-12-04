@@ -3,7 +3,7 @@
 **Théo Poujol**
 
 AI & Computer Vision Educational Engineer - Teaching Staff @ [Télécom Saint-Etienne](https://www.telecom-st-etienne.fr/en/), Graduate School of Engineering & [IXR Platform](https://ixrplatform.fr).
-🧑‍🎓 Master of Science In Computer Graphics & Applied Geometry.
+🧑‍🎓 Master of Science In Computer Graphics & Applied Geometry @ Faculty of Sciences Luminy, Aix-Marseille University.
 
 - 🔭 I’m currently working on Deep Learning courses & pratical workshops for engineering students.
 - 🌱 I’m currently learning AI, Mathematics, Vision, Lightning and Real-time Rendering.
